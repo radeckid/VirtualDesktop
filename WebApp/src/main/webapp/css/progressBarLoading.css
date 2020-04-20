@@ -1,0 +1,15 @@
+.progress .progress-bar {
+    -webkit-animation: progressBarAnima 3s ease-in-out;
+    -webkit-animation-fill-mode: both;
+    -moz-animation: progressBarAnima 3s ease-in-out;
+    -moz-animation-fill-mode: both;
+}
+
+@-webkit-keyframes progressBarAnima {
+    0% {
+        width: 0;
+    }
+    100% {
+    [ aria-width ];
+    }
+}

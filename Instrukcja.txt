@@ -1,0 +1,37 @@
+Potrzebne programy.
+
+Tomcat serwer
+Intelij / Eclipse
+Baza danych mysql
+Obsługa meaven
+
+1. W tomacie w folderze conf w server.xml dodać
+<Resource auth="Container" 
+			  driverClassName="com.mysql.jdbc.Driver"
+			  global="jdbc/MyDB"
+			  poolPreparedStatements="true"
+			  singleton = "false"
+			  maxActive="100"
+			  maxIdle="20"
+			  maxWait="10000"
+			  minIdle="5" name="jdbc/MyDB"
+			  password="admin"
+			  type="javax.sql.DataSource"
+			  url="jdbc:mysql://localhost:3306/virtualdesktop"
+			  username="root"/>
+
+2. W powyższym folderze w context.xml dodać
+<ResourceLink name="jdbc/MyLocalDB"
+                global="jdbc/MyDB"
+                auth="Container"
+                type="javax.sql.DataSource" />
+				
+3. Wrzucić do bazy danych plik znajdujący się w folderze Data UserTableCraeteDB.sql
+
+4. Ściągnąć źródła z meaven
+
+5. Aby uruchomić serwis reCAPTCHA należy wejść na stronę https://www.google.com/recaptcha/
+następnie przejść do panelu Admin console i wygenerować klucze.
+Po wygenerowaniu kluczy należy je wkleić w klasie VerifyRepatcha w folderze helpers do public static final String secretKey;
+
+/* haslo do damrad@admin.pl to damiandamian */

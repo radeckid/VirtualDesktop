@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86962ab5-6fb4-49cf-a479-aa12707d8351" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/.idea/dataSources/47cd40fe-fd8e-4028-9644-7e2f621cfb0d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/.idea/dataSources/47cd40fe-fd8e-4028-9644-7e2f621cfb0d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/src/main/java/vs/api/database/UserDBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/src/main/java/vs/api/database/UserDBO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/src/main/java/vs/api/serlvets/LogInServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/src/main/java/vs/api/serlvets/LogInServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/src/main/java/vs/api/serlvets/SendFilesServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/src/main/java/vs/api/serlvets/SendFilesServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/src/main/java/vs/api/serlvets/UploadFileServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/src/main/java/vs/api/serlvets/UploadFileServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/src/main/webapp/mainpage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/src/main/webapp/mainpage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/target/classes/vs/api/database/UserDBO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/target/classes/vs/api/database/UserDBO.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Projekty\Projekt\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1StL3ElK0hhCltVVLuoN0EFRNjm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebApp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.24022989" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86962ab5-6fb4-49cf-a479-aa12707d8351" name="Default Changelist" comment="" />
+      <created>1572377744014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572377744014</updated>
+      <workItem from="1572377748501" duration="246000" />
+      <workItem from="1572378041236" duration="165000" />
+      <workItem from="1573647930028" duration="43000" />
+      <workItem from="1573755841913" duration="47000" />
+      <workItem from="1573755905346" duration="12000" />
+      <workItem from="1574065312201" duration="157000" />
+      <workItem from="1576183980303" duration="19000" />
+      <workItem from="1576184007060" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
